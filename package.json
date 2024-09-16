@@ -1,0 +1,9 @@
+{
+    "name": "my-projetct",
+    "version": "1.0.0",
+    "scripts": {
+        "start:backend": "cd backend && node server.js",
+        "start:frontend": "cd frontend && ng serve",
+        "start:electron": "cd electron && npx electron main.js"
+    }
+}
