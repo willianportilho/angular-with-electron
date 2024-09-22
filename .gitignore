@@ -8,7 +8,7 @@ yarn.lock
 
 # Angular
 /dist/
-/.angular/
+*/.angular/
 /*.tgz
 /.angular-cache/
 /src/**/*.js
